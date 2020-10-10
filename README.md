@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+### Right now I am having fun trying to program 💻🖥💾
+### Python is my current favourite language!
+### Feel free to check out my repos!
+
 
 <!--
 **LebbyFoxx/LebbyFoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
