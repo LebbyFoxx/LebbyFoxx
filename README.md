@@ -1,6 +1,6 @@
 # Hi there 👋
 ### Right now I am having fun trying to program 💻
-### Feel free to check out my repos!(｡･∀･)ﾉﾞ
+### Feel free to check out my repos!
 
 
 <!--
