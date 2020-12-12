@@ -1,7 +1,6 @@
-# Hi there 👋😄👍
-### Right now I am having fun trying to program 💻🖥
-### Python is my current favourite language 🐍
-### Feel free to check out my repos!
+# Hi there 👋
+### Right now I am having fun trying to program 💻
+### Feel free to check out my repos!(｡･∀･)ﾉﾞ
 
 
 <!--
